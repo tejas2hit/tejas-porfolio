@@ -1,4 +1,4 @@
-# tejasportfolio
+# tejas-portfolio
 
 ## Project setup
 ```
