@@ -89,18 +89,10 @@ export default {
           title: "My Portfolio",
           text: "Portfolio website made using vue and bootstrap",
           imageClass: "project-image-dedeogluhu",
-          live: "https://dedeogluhu.github.io",
-          source: "https://github.com/dedeogluhu",
+          live: "https://tejasbapps.netlify.app",
+          source: "https://github.com/tejas2hit/tejas-porfolio",
           tools: ["vue", "bootstrap"],
-        },
-        {
-          title: "You Should Draw",
-          text: "Drawing app with a drawing suggestion api",
-          imageClass: "project-image-youshoulddraw",
-          live: "",
-          source: "https://github.com/dedeogluhu/YouShouldDraw",
-          tools: ["vue", "bootstrap", "node", "express"],
-        },
+        }
       ],
     };
   },
